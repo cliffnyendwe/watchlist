@@ -1,0 +1,110 @@
+/* fieldset {
+    font-family: sans-serif;
+    border: 5px solid #1F497D;
+    background: #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    width: 300px;
+    color:#f7000f;
+}
+
+fieldset legend {
+    background: #1F497D;
+    color: #fff;
+    padding: 5px 10px ;
+    font-size: 32px;
+    border-radius: 5px;
+    box-shadow: 0 0 0 5px #ddd;
+    margin-left: 40px;
+
+}
+.line{
+  color: black; */
+
+  #result{
+    display: none;
+    color:blue;
+    margin-top: 17%;
+    text-align:center;
+    /* background-color:black; */
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+  }
+  #hresult{
+    color: red;
+  }
+  h1{
+    color: blue;
+  }
+  .label{
+    color: grey;
+  }
+  #page1{
+    display: none;
+  }
+  #clearfix{
+    height: 8%;
+  }
+  body{
+    /* background-image: url("images/pixels") */
+    border-bottom-right-radius: 50%;
+    font-size: large;
+    background-color: maroon;
+    /* background-image:url("sheila.jpeg") */
+
+  }
+  #cliff{
+    margin-top: 17%;
+    color: blue;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+  }
+
+  /* ul,li{
+    color:green;
+  } */
+
+  li{
+    list-style-type: none;
+    color: grey;
+    /* font-style: italic; */
+  }
+
+  /* .jumbotron{
+    color: #ffffff;
+  } */
+  /* }
+  img{
+    background-size:cover;
+  } */
+/*
+  html{
+    background-image:url("comp.jpeg")
+
+    } */
+
+    html{
+      background-color: black;
+    }
+
+    .nyendwe{
+      font-size: x-large;
+      color: blue;;
+    }
+
+ul{
+  text-align: center;
+}
+
+  /* .yes{
+    background-color:maroon;
+  }
+/* */
+/* images{
+  background-size: cover;
+  height:100%;
+  widtg=100
+  } */
+/* .cliff{ */
